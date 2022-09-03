@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Haha free stats
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=nyllre&show_icons=true&theme=radical)
+![Streak](http://github-readme-streak-stats.herokuapp.com/?user=nyllre&theme=radical)
