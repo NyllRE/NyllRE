@@ -19,4 +19,6 @@
   [![Instagram](https://img.shields.io/badge/mokaab-follow-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/mokaab_dev)
   [![X (formerly Twitter) Follow](https://img.shields.io/badge/nyll-follow-blue?style=for-the-badge&logo=x)](https://twitter.com/NyllRe)
 
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
