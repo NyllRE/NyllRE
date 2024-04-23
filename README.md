@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  ![nyll logo](./nyll-logo-glow.svg)
+  [![nyll logo](./nyll-logo-glow.svg)](https://nyll.vercel.app)
   [![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,pug,css,sass,tailwind,vue,nuxt,react,django,postgresql,sqlite,prisma,nodejs,bun,bash,github,netlify,vercel,neovim,codepen,vscode,bots,figma,linux,md,materialui,p5js,threejs,supabase,selenium,vite,&perline=8)](https://skillicons.dev)
 <h1>Stats</h1>
 
