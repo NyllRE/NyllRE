@@ -1,4 +1,11 @@
 
+
+<div align="center">
+  
+  [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+  
+</div>
+
 <div align="center">
 
   [![nyll logo](./nyll-logo-glow.svg)](https://nyll.vercel.app)
