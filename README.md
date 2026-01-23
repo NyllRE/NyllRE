@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  [![nyll logo](./nyll-logo-glow.svg)](https://nyll.vercel.app)
+  [![nyll logo](./nyll-logo-glow.svg)](https://AliSokkar.dev)
   [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,tailwind,vue,nuxt,py,django,postgresql,prisma,nodejs,bun,bash,github,neovim,vscode,figma,linux,p5js,threejs,selenium,vite,&perline=8)](https://skillicons.dev)
 <h1>Stats</h1>
 
