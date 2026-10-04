@@ -1,22 +1,32 @@
-<div align="center">
+Hi! I'm Ali. A full-stack developer and OSS contributor.
+
+Top-Rated on Upwork and featured in VueJS Amsterdam.
+
+<p>
+Creator of 
+  <sup>
+    <img src="https://raw.githubusercontent.com/nuxt/modules/e0307456cea0ab107fa6be3071e20243514c54fb/icons/nuxt-file-storage.svg" height="24" align="middle">
+  </sup>
+  <b>Nuxt File Storage</b> <i>(100+ Github Stars & +40k yearly downloads)</i>.
   
-  [![nyll logo](./nyll-logo-glow.svg)](https://AliSokkar.dev)
+</p>
 
-Hi! I'm Ali. A full-stack nuxt developer and contributor.
-
-Top-Rated on Upwork and featured in VueJS amsterdam. Creator of [nuxt-file-storage](https://github.com/NyllRE/nuxt-file-storage). 
+<p>
+  Working at&nbsp;
+  <a href="https://redeast.agency?utm_source=ali_sokkar&utm_content=github_profile&utm_medium=about_page">
+    <sup>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://redeast.agency/RedEast.white.svg">
+        <img src="https://redeast.agency/RedEast.black.svg" alt="RedEast" height="24" align="middle">
+      </picture>
+    </sup>
+  </a>
+  as a Co-Founder & User Experience Architect.
+</p>
   
   [![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,vue,nuxt,py,django,postgresql,prisma,nodejs,bun,bash,github,figma,linux,vite,&perline=8)](https://skillicons.dev)
 
-# Stats
-
-  ![Statistics](https://github-readme-stats-sigma-five.vercel.app/api?username=nyllre&show_icons=true&theme=nightowl)
-  
-  <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nyllre&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-  [![NyllRE Nuxter profile](https://nuxters.nuxt.com/card/NyllRE/og.png)](https://nuxters.nuxt.com/NyllRE)
-
-
-</div>
+[![NyllRE Nuxter profile](https://nuxters.nuxt.com/card/NyllRE/og.png)](https://nuxters.nuxt.com/NyllRE)
 
 <div align="center">
 
