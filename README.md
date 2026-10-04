@@ -7,7 +7,7 @@ Creator of
   <sup>
     <img src="https://raw.githubusercontent.com/nuxt/modules/e0307456cea0ab107fa6be3071e20243514c54fb/icons/nuxt-file-storage.svg" height="24" align="middle">
   </sup>
-  <b>Nuxt File Storage</b> <i>(100+ Github Stars & +40k yearly downloads)</i>.
+  <b>Nuxt File Storage</b>.
   
 </p>
 
